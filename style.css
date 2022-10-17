@@ -1,0 +1,32 @@
+body {
+    background-color: green;
+}
+
+#kaart1 {
+    background-color: white;
+}
+
+.cornernumbertop {
+    background-color: blue;
+}
+
+.smallclovertop {
+    background-color: pink;
+}
+
+.img.icon {
+    height: 40px;
+}
+
+.pip {
+    background-color: aqua;
+}
+
+.smallclovertop {
+    background-color: beige;
+}
+
+.cornernumbertop {
+    background-color: aquamarine;
+
+}
