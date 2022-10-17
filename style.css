@@ -4,10 +4,22 @@ body {
 
 #kaart1 {
     background-color: white;
+    position: absolute;
+    width: 149px;
+    height: 207px;
+    border-radius: 5%;
+    margin: 5px;
+    padding: 5px;
+    width: 149px;
+    height: 207px;
+
+    font-size: 20px;
+    box-sizing: border-box;
 }
 
 .cornernumbertop {
-    background-color: blue;
+    /*background-color: blue;*/
+    margin-left: 2px;
 }
 
 .smallclovertop {
@@ -20,13 +32,21 @@ body {
 
 .pip {
     background-color: aqua;
+
+}
+
+.pip img{
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 .smallclovertop {
     background-color: beige;
+    rotate: 180deg;
 }
 
 .cornernumbertop {
-    background-color: aquamarine;
+    /*background-color: aquamarine;*/
+    rotate: 180deg;
 
 }
